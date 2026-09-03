@@ -28,8 +28,8 @@ Built an interactive Power BI dashboard analyzing sales performance across produ
 
 ### Sales Overview
 
-![Superstore Sales Overview](YOUR-FIRST-FILENAME.png)
+![Superstore Sales Overview](Superstore-Executive-Dashboard.png)
 
 ### Detailed Analysis
 
-![Superstore Detailed Analysis](YOUR-SECOND-FILENAME.png)
+![Superstore Detailed Analysis](Superstore-Detailed-Analysis.png)
