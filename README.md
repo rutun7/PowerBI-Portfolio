@@ -18,3 +18,18 @@ Analyzed how the S&P 500 and Shanghai Composite moved following U.S. tariff anno
 
 ![Shanghai Composite Tariff Dashboard](Shanghai-Composite-Tariff-Dashboard.png)
 
+---
+
+## Superstore Sales Dashboard
+
+Built an interactive Power BI dashboard analyzing sales performance across products, regions, and customer segments.
+
+**Power BI | DAX | Power Query | Data Modelling | RLS | Drill-through**
+
+### Sales Overview
+
+![Superstore Sales Overview](YOUR-FIRST-FILENAME.png)
+
+### Detailed Analysis
+
+![Superstore Detailed Analysis](YOUR-SECOND-FILENAME.png)
