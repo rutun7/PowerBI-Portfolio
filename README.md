@@ -11,3 +11,12 @@ Analyzed how the S&P 500 and Shanghai Composite moved following U.S. tariff anno
 **Power BI | DAX | Power Query | Data Modelling | Data Visualization**
 
 ### Dashboard
+
+#### S&P 500
+
+![S&P 500 Tariff Dashboard](S%26P500-Tariff-Dashboard.png)
+
+#### Shanghai Composite
+
+![Shanghai Composite Tariff Dashboard](Shanghai-Composite-Tariff-Dashboard.png)
+
