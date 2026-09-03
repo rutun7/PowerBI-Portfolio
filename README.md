@@ -8,7 +8,7 @@ A collection of Power BI dashboards demonstrating data analysis, DAX, Power Quer
 
 Analyzed how the S&P 500 and Shanghai Composite moved following U.S. tariff announcements from January 2025 to August 2026.
 
-**Power BI | DAX | Power Query | Data Modelling | Data Visualization**
+**Tools & Technologies: Power BI | DAX | Power Query | Data Modelling**
 
 #### S&P 500
 
@@ -20,13 +20,11 @@ Analyzed how the S&P 500 and Shanghai Composite moved following U.S. tariff anno
 
 ---
 
----
-
 ## Superstore Sales Dashboard
 
 Built an interactive Power BI dashboard analyzing sales performance across products, regions, and customer segments.
 
-**Power BI | DAX | Power Query | Data Modelling | RLS | Drill-through**
+**Tools & Technologies: Power BI | DAX | Power Query | Data Modelling | RLS | Drill-through**
 
 ### Executive Dashboard
 
@@ -42,7 +40,7 @@ Built an interactive Power BI dashboard analyzing sales performance across produ
 
 Built a Power BI dashboard to analyze NYC taxi performance, including monthly revenue, trip volume, and fare trends. Data was processed using Azure Data Lake and Databricks with a Medallion Architecture.
 
-**Power BI | Azure Databricks | PySpark | Azure Data Lake | Data Engineering**
+**Tools & Technologies: Power BI | Azure Databricks | PySpark | Azure Data Lake**
 
 ### Performance Dashboard
 
