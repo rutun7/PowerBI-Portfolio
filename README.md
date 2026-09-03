@@ -35,3 +35,15 @@ Built an interactive Power BI dashboard analyzing sales performance across produ
 ### Detailed Analysis
 
 ![Superstore Detailed Analysis](Superstore-Detailed-Analysis.png)
+
+---
+
+## NYC Taxi Performance Analytics
+
+Built a Power BI dashboard to analyze NYC taxi performance, including monthly revenue, trip volume, and fare trends. Data was processed using Azure Data Lake and Databricks with a Medallion Architecture.
+
+**Power BI | Azure Databricks | PySpark | Azure Data Lake | Data Engineering**
+
+### Performance Dashboard
+
+![NYC Taxi Performance Dashboard](NYC-Taxi-Performance-Dashboard.png)
