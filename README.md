@@ -46,4 +46,4 @@ Built a Power BI dashboard to analyze NYC taxi performance, including monthly re
 
 ### Performance Dashboard
 
-![NYC Taxi Performance Dashboard](NYC-Taxi-Performance-Dashboard.png)
+![NYC Taxi Performance Dashboard](NYC-Taxi-Performance-Dashboard.jpg)
