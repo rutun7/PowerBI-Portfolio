@@ -20,15 +20,17 @@ Analyzed how the S&P 500 and Shanghai Composite moved following U.S. tariff anno
 
 ---
 
+---
+
 ## Superstore Sales Dashboard
 
 Built an interactive Power BI dashboard analyzing sales performance across products, regions, and customer segments.
 
 **Power BI | DAX | Power Query | Data Modelling | RLS | Drill-through**
 
-### Sales Overview
+### Executive Dashboard
 
-![Superstore Sales Overview](Superstore-Executive-Dashboard.png)
+![Superstore Executive Dashboard](Superstore-Executive-Dashboard.png)
 
 ### Detailed Analysis
 
