@@ -3,7 +3,19 @@
 A collection of Power BI dashboards demonstrating data analysis, DAX, Power Query, data modelling, and interactive data visualization.
 
 ---
+## TTC Service Reliability Analytics
 
+Built an interactive Power BI dashboard to analyze TTC service delays across Bus, Subway, Streetcar, and LRT. Data was processed using Microsoft Fabric and PySpark through an automated Bronze-Silver-Gold Medallion Architecture.
+
+**Tools & Technologies: Power BI | Microsoft Fabric | PySpark | OneLake | Delta Lake | DAX | Data Modelling**
+
+### Service Reliability Dashboard
+
+![TTC Service Reliability Dashboard](TTC%20Dashboard.png)
+
+**[View Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMmYxMGYyYWEtZDhjNy00ZTU0LWFjNzUtZmRkNTc5NDA3YzRhIiwidCI6IjJiOTBmNjgwLTBjNzMtNDU4NC05Y2U1LWM5MzQzMTk0MzlkMSJ9)** | **[View Full Project](https://github.com/rutun7/ttc-service-reliability-analytics)**
+
+---
 ## U.S. Tariff & Stock Market Reaction Analysis
 
 Analyzed how the S&P 500 and Shanghai Composite moved following U.S. tariff announcements from January 2025 to August 2026.
